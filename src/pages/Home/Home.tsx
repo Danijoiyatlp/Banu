@@ -82,7 +82,7 @@ function Home() {
           </div>
           <div className={styles.heroStats}>
             <div className={styles.stat}>
-              <span className={styles.statNumber}>50+</span>
+              <span className={styles.statNumber}>10+</span>
               <span className={styles.statLabel}>Doctors</span>
             </div>
             <div className={styles.stat}>
